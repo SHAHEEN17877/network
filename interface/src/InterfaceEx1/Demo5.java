@@ -1,0 +1,5 @@
+package InterfaceEx1;
+
+public class Demo5 {
+
+}
